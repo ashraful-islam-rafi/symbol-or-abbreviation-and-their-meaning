@@ -1,4 +1,4 @@
-The following table shows some mathematical `symbols` or `abbreviations` and their `meaning`.
+The following table shows a list of some common `symbols` or `abbreviations` and their `meaning`. Please feel free to add, modify or correct this list.
 
 | Serial | Symbol/Abbreviation   | Meaning |
 | ------------- | ------------- | ------------- |
