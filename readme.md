@@ -1,6 +1,6 @@
 The following table shows some mathematical `symbols` or `abbreviations` and their `meaning`.
 
-| Serial | Symbol  | Meaning |
+| Serial | Symbol/Abbreviation   | Meaning |
 | ------------- | ------------- | ------------- |
 | 1 | i.e. | `that is` or `in other words` |    
 | 2 | e.g. | for example |    
@@ -23,7 +23,7 @@ The following table shows some mathematical `symbols` or `abbreviations` and the
 | 19 | ≜ | delta over equals, occasionally used to define a new variable or function |    
 | 20 | ::= | is defined as |    
 | 21 | ℕ (Double-Struck Capital N) | used to denote the set of all natural numbers, (0 to infinity) |    
-| 22 | ℤ | Represents the set of integers |    
+| 22 | ℤ | Represents the set of integers `{. . . , −3, −2, −1, 0, 1, 2, 3, . . .}` |    
 | 23 | ⊆ | read as `is a subset of` |    
 | 24 | ⊂ | read as `is a proper subset of` |    
 | 25 | ∪ | union |    
@@ -36,6 +36,6 @@ The following table shows some mathematical `symbols` or `abbreviations` and the
 | 32 | ∧ | and / conjunction |    
 | 33 | ∨ | or / disjunction |    
 | 34 | ⊢ | for example, `P ⊢ Q`, read as, `From P, we can conclude Q`, or `P entails Q` |    
-| 35 | : (colon) | For example, `v:V1`, means, `term v has type V1` |    
+| 35 | : | For example, `v:V1`, means, `term v has type V1` |    
 | 36 | ∴ | therefore |    
 | 37 | ∎ or □| Used to denote the end of a proof |
